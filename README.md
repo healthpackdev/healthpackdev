@@ -1,8 +1,6 @@
 # health
 
- **Oh... Üzgünüm Ne Yazıkki Çok Bilgi veremeyeceğim.**
- 
-> Şuanlık Hedefim En kısa Sürede Bir **Paylaşım Sitesi** yapmak Ondan Sonrasını Düşünürüz... 
+**Turkish**
 
 
  ### Çok Fazla Ziyaret Ettiğim Siteler:
