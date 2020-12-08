@@ -3,7 +3,7 @@
 **Turkish**
 
 
- ### Çok Fazla Ziyaret Ettiğim Siteler:
+ ### Ziyaret Ettiğim Siteler:
 - [Yusuf Sezer](https://www.yusufsezer.com.tr)
 - [Proto Turk](https://prototurk.com)
 - [Developers Mozilla](https://developer.mozilla.org/tr/)
