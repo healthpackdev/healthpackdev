@@ -9,7 +9,6 @@
 - [Developers Mozilla](https://developer.mozilla.org/tr/)
 - [w3schools](https://www.w3schools.com)
 - [StackOverflow](https://stackoverflow.com)
-- [Next.js Documents](https://nextjs.org/docs) 😉
 - [Github](https://github.com/)
 
 
