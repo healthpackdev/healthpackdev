@@ -13,7 +13,7 @@
 
 
  ### Adreslerim:
-- **Discord**: [`healthpackTR#9999 - 573054368568311808`](https://discord.com/users/573054368568311808) 
+- **Discord**: [`healthpackTR#8248 - 573054368568311808`](https://discord.com/users/573054368568311808) 
 - **Youtube**: [`Healthpack TR`](https://www.youtube.com/channel/UCDnt9my_8z87bWL-yCb5NEA)
 - **Npm**: [`healthpack`](https://www.npmjs.com/~healthpack)
 - **Steam**: [`healthpackTR`](https://steamcommunity.com/id/healthpackTR/)
