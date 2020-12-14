@@ -10,6 +10,7 @@
 - [w3schools](https://www.w3schools.com)
 - [StackOverflow](https://stackoverflow.com)
 - [Github](https://github.com/)
+- [FontEllo](https://fontello.com)
 
 
  ### Adreslerim:
