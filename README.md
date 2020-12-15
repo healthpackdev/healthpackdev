@@ -13,8 +13,10 @@
 - [Flaticon](https://www.flaticon.com)
 - [FontEllo](https://fontello.com)
 - [Font Awesome](https://fontawesome.com)
+
 ### Yararlı Kütüphaneler:
 - [Bootstrap](https://getbootstrap.com)
+- [Animate CSS](https://animate.style)
 
  ### Adreslerim:
 - **Discord**: [`healthpackTR#8248 - 573054368568311808`](https://discord.com/users/573054368568311808) 
