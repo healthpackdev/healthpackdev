@@ -12,9 +12,10 @@
 ### Kullanışlı Siteler:
 - [Flaticon](https://www.flaticon.com)
 - [FontEllo](https://fontello.com)
-
+- [Font Awesome](https://fontawesome.com)
 ### Yararlı Kütüphaneler:
 - [Bootstrap](https://getbootstrap.com)
+
  ### Adreslerim:
 - **Discord**: [`healthpackTR#8248 - 573054368568311808`](https://discord.com/users/573054368568311808) 
 - **Youtube**: [`Healthpack TR`](https://www.youtube.com/channel/UCDnt9my_8z87bWL-yCb5NEA)
