@@ -1,33 +1,43 @@
-# health
+> Tavsiyeler :)
 
-**Turkish**
-
-
- ### Ziyaret Ettiğim Siteler:
+### Yararlı Kaynaklar:
 - [Yusuf Sezer](https://www.yusufsezer.com.tr)
-- [Proto Turk](https://prototurk.com)
-- [Developers Mozilla](https://developer.mozilla.org/tr/)
+- [Developers Mozilla](https://developer.mozilla.org/tr/) 
 - [w3schools](https://www.w3schools.com)
+
+### Yardım Alma:
 - [StackOverflow](https://stackoverflow.com)
-- [Github](https://github.com/)
-- [FontEllo](https://fontello.com)
-- [Bootstrap](https://getbootstrap.com)
+- [Proto Turk](https://prototurk.com)
+
+### Kullanışlı Siteler:
 - [Flaticon](https://www.flaticon.com)
+- [FontEllo](https://fontello.com)
 
-
+### Yararlı Kütüphaneler:
+- [Bootstrap](https://getbootstrap.com)
  ### Adreslerim:
 - **Discord**: [`healthpackTR#8248 - 573054368568311808`](https://discord.com/users/573054368568311808) 
 - **Youtube**: [`Healthpack TR`](https://www.youtube.com/channel/UCDnt9my_8z87bWL-yCb5NEA)
 - **Npm**: [`healthpack`](https://www.npmjs.com/~healthpack)
 - **Steam**: [`healthpackTR`](https://steamcommunity.com/id/healthpackTR/)
 
-### Kullandığım IDE'ler:
+### Kullanışlı IDE'ler:
 - [`Visual Studio Code`](https://code.visualstudio.com)
-- [`Visual Studio`](https://visualstudio.microsoft.com/tr/)
+- [`Visual Studio`](https://visualstudio.microsoft.com/tr/) 
+- [`Web Storm`](https://www.jetbrains.com/webstorm/) (**Denemedim Ama Güzel Olduğu Söyleniyor**)
 
+### Kullanışlı `vs code` Eklentileri:
+- [`Bracket Pair Colorizer 2`](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
+- [`Html CSS Support`](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
+- [`Html/css/Javascript Snippets`](https://marketplace.visualstudio.com/items?itemName=Wscats.html-snippets)
+- [`IntelliSense for CSS class names in HTML`](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
+- [`Live Server`](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+- [`Material Icon Theme`](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+- [`Visual Studio IntelliCode`](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
 
-![İstatiskler](https://github-readme-stats.vercel.app/api?username=healthpackTR&theme=react&hide_title=true)
-![Top Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=healthpacktr&layout=compact)
+### İstatiskler:
+> ![İstatiskler](https://github-readme-stats.vercel.app/api?username=healthpackTR&theme=react&hide_title=true)
+> ![Top Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=healthpacktr&layout=compact)
 
 
 
