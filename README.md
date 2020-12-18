@@ -1,5 +1,7 @@
 ![Herşey](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
+<hr>
+
 ### Yararlı Kaynaklar:
 - [Yusuf Sezer](https://www.yusufsezer.com.tr)
 - [Developers Mozilla](https://developer.mozilla.org/tr/) 
@@ -43,6 +45,7 @@
 - [`Html`](https://www.w3schools.com/html/)
 - [`CSS`](https://www.w3schools.com/css/)
 
+<hr>
 
 ![İstatiskler](https://github-readme-stats.vercel.app/api?username=healthpackTR&theme=react&hide_title=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=healthpackTR&hide_title=true)
