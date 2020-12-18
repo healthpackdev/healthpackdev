@@ -1,4 +1,4 @@
-> Tavsiyeler :)
+![Herşey](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 ### Yararlı Kaynaklar:
 - [Yusuf Sezer](https://www.yusufsezer.com.tr)
@@ -38,9 +38,15 @@
 - [`Material Icon Theme`](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 - [`Visual Studio IntelliCode`](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
 
-### İstatiskler:
-> ![İstatiskler](https://github-readme-stats.vercel.app/api?username=healthpackTR&theme=react&hide_title=true)
-> ![Top Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=healthpacktr&layout=compact)
+### Üzerinde Çalıştığım Diller: 
+- [`NodeJS & Javascript`](https://nodejs.org)
+- [`Html`](https://www.w3schools.com/html/)
+- [`CSS`](https://www.w3schools.com/css/)
+
+
+ ![İstatiskler](https://github-readme-stats.vercel.app/api?username=healthpackTR&theme=react&hide_title=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=healthpackTR)
 
 
 
