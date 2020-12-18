@@ -44,9 +44,8 @@
 - [`CSS`](https://www.w3schools.com/css/)
 
 
- ![İstatiskler](https://github-readme-stats.vercel.app/api?username=healthpackTR&theme=react&hide_title=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=healthpackTR)
+![İstatiskler](https://github-readme-stats.vercel.app/api?username=healthpackTR&theme=react&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=healthpackTR&hide_title=true)
 
 
 
