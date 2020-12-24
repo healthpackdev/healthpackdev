@@ -28,7 +28,7 @@
 - **Npm**: [`healthpack`](https://www.npmjs.com/~healthpack)
 - **Steam**: [`healthpackTR`](https://steamcommunity.com/id/healthpackTR/)
 
-### Kullanışlı IDE'ler:
+### Useful IDEs:
 - [`Visual Studio Code`](https://code.visualstudio.com)
 - [`Visual Studio`](https://visualstudio.microsoft.com/tr/) 
 - [`Web Storm`](https://www.jetbrains.com/webstorm/) (**I don't try but my friends says "Good"**)
