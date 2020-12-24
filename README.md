@@ -1,7 +1,7 @@
 ![Herşey](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 <hr>
 
-**`l send useful basic projects for Example`**
+**`I will share useful exemplary projects `(in a few months)**
 
 <hr>
 
