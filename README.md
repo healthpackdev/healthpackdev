@@ -45,7 +45,7 @@
 - [`Material Icon Theme`](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 - [`Visual Studio IntelliCode`](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
 
-### My favoruite Languages: 
+### My favourite Languages: 
 - [`NodeJS & Javascript`](https://nodejs.org)
 - [`Html`](https://www.w3schools.com/html/)
 - [`CSS`](https://www.w3schools.com/css/)
