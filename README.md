@@ -55,7 +55,7 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=healthpackTR&theme=react&hide_title=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=healthpackTR&hide_title=true)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=healthpackTR&repo=smartYeni)](https://github.com/healthpackTR/smartYeni)
+Coming... Smart sources
 
 
   
