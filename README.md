@@ -59,5 +59,6 @@
 ## Repos:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=healthpackTR&repo=Smart&theme=dark)](https://github.com/healthpackTR/Smart)
 
+[![Github User Info Example](https://github-readme-stats.vercel.app/api/pin/?username=healthpackTR&repo=user-info-example&theme=dark)](https://github.com/healthpackTR/user-info-example)
 
   
