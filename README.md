@@ -52,9 +52,10 @@
 
 <hr>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=healthpackTR&theme=react&hide_title=true)
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=healthpackTR&hide_title=true)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=healthpackTR&repo=Smart)](https://github.com/healthpackTR/Smart)
+![Stats](https://github-readme-stats.vercel.app/api?username=healthpackTR&theme=calm&hide_title=true&show_icons=true)
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=healthpackTR&hide_title=true&theme=calm)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=healthpackTR&repo=Smart&theme=chartreuse-dark)](https://github.com/healthpackTR/Smart)
 
 
   
