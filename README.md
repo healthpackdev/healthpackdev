@@ -53,9 +53,8 @@
 <hr>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=healthpackTR&theme=react&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=healthpackTR&hide_title=true)
-
-Coming... Smart sources
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=healthpackTR&hide_title=true)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=healthpackTR&repo=Smart)](https://github.com/healthpackTR/Smart)
 
 
   
