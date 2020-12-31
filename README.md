@@ -57,8 +57,10 @@
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=healthpackTR&hide_title=true&theme=dark)
 
 ## Repos:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=healthpackTR&repo=Smart&theme=dark)](https://github.com/healthpackTR/Smart)
+[![Smart](https://github-readme-stats.vercel.app/api/pin/?username=healthpackTR&repo=Smart&theme=dark)](https://github.com/healthpackTR/Smart)
 
 [![Github User Info Example](https://github-readme-stats.vercel.app/api/pin/?username=healthpackTR&repo=user-info-example&theme=dark)](https://github.com/healthpackTR/user-info-example)
+
+[![Smart](https://github-readme-stats.vercel.app/api/pin/?username=healthpackTR&repo=yilbasi-sayac&theme=dark)](https://github.com/healthpackTR/Smart)
 
   
