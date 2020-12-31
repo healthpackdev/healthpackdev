@@ -46,11 +46,6 @@
 - [`Material Icon Theme`](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 - [`Visual Studio IntelliCode`](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
 
-### My favourite Languages: 
-- [`NodeJS & Javascript`](https://nodejs.org)
-- [`Html`](https://www.w3schools.com/html/)
-- [`CSS`](https://www.w3schools.com/css/)
-
 <hr>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=healthpackTR&theme=dark&hide_title=true&show_icons=true)
