@@ -57,6 +57,7 @@
 
 [![Github User Info Example](https://github-readme-stats.vercel.app/api/pin/?username=healthpackTR&repo=user-info-example&theme=dark)](https://github.com/healthpackTR/user-info-example)
 
-[![Smart](https://github-readme-stats.vercel.app/api/pin/?username=healthpackTR&repo=yilbasi-sayac&theme=dark)](https://github.com/healthpackTR/Smart)
+[![Smart](https://github-readme-stats.vercel.app/api/pin/?username=healthpackTR&repo=yilbasi-sayac&theme=dark)](https://github.com/healthpackTR/easy-form-bad)
 
+[![Smart](https://github-readme-stats.vercel.app/api/pin/?username=healthpackTR&repo=easy-form-bad&theme=dark)](https://github.com/healthpackTR/easy-form-bad)
   
