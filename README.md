@@ -19,6 +19,7 @@
 - [FontEllo](https://fontello.com)
 - [Font Awesome](https://fontawesome.com)
 - [Key Code](https://keycode.info)
+- [RapidApi](https://rapidapi.com)
 
 ### Useful Libraries On CSS:
 - [Bootstrap](https://getbootstrap.com)
