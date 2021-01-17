@@ -1,7 +1,7 @@
 ![Herşey](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 <hr>
 
-**`I will share useful exemplary projects `(in a few months)**
+Free Projects
 
 <hr>
 
@@ -21,7 +21,7 @@
 - [Key Code](https://keycode.info)
 - [RapidApi](https://rapidapi.com)
 
-### Useful Libraries On CSS:
+### CSS:
 - [Bootstrap](https://getbootstrap.com)
 - [Material](https://material.io)
 - [Animate CSS](https://animate.style)
@@ -37,7 +37,6 @@
 ### Useful IDEs:
 - [`Visual Studio Code`](https://code.visualstudio.com)
 - [`Visual Studio`](https://visualstudio.microsoft.com/tr/) 
-- [`Web Storm`](https://www.jetbrains.com/webstorm/) (**I don't try but my friends say "Good"**)
 
 ### Useful `vs code` Extensions:
 - [`Bracket Pair Colorizer 2`](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
@@ -60,5 +59,5 @@
 
 [![Smart](https://github-readme-stats.vercel.app/api/pin/?username=healthpackTR&repo=yilbasi-sayac&theme=dark)](https://github.com/healthpackTR/easy-form-bad)
 
-[![Smart](https://github-readme-stats.vercel.app/api/pin/?username=healthpackTR&repo=easy-form-bad&theme=dark)](https://github.com/healthpackTR/easy-form-bad)
+[![Form](https://github-readme-stats.vercel.app/api/pin/?username=healthpackTR&repo=basic-form&theme=dark)](https://github.com/healthpackTR/easy-form-bad)
   
