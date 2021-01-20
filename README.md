@@ -1,7 +1,7 @@
 ![Herşey](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 <hr>
 
-Free Projects
+dreams of becoming a developer
 
 <hr>
 
