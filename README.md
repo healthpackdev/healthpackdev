@@ -14,5 +14,5 @@ I used my first computer at age of 6
 ## Repos:
 [![Smart](https://github-readme-stats.vercel.app/api/pin/?username=healthpackTR&repo=Smart&theme=dark)](https://github.com/healthpackTR/Smart)
 
-[![Counter](https://github-readme-stats.vercel.app/api/pin/?username=healthpackTR&repo=yilbasi-sayac&theme=dark)](https://github.com/healthpackTR/new-year-counter)
+[![Counter](https://github-readme-stats.vercel.app/api/pin/?username=healthpackTR&repo=new-year-counter&theme=dark)](https://github.com/healthpackTR/new-year-counter)
   
