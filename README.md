@@ -57,9 +57,7 @@ dreams of becoming a developer
 
 [![Github User Info Example](https://github-readme-stats.vercel.app/api/pin/?username=healthpackTR&repo=user-info-example&theme=dark)](https://github.com/healthpackTR/user-info-example)
 
-[![Smart](https://github-readme-stats.vercel.app/api/pin/?username=healthpackTR&repo=yilbasi-sayac&theme=dark)](https://github.com/healthpackTR/easy-form-bad)
-
-[![Form](https://github-readme-stats.vercel.app/api/pin/?username=healthpackTR&repo=basic-form&theme=dark)](https://github.com/healthpackTR/easy-form-bad)
+[![Smart](https://github-readme-stats.vercel.app/api/pin/?username=healthpackTR&repo=yilbasi-sayac&theme=dark)](https://github.com/healthpackTR/yilbasi-sayac)
   
 [![product-system-exmp](https://github-readme-stats.vercel.app/api/pin/?username=healthpackTR&repo=product-system-exmp&theme=dark)](https://github.com/healthpackTR/product-system-exmp)  
   
