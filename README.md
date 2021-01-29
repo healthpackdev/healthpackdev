@@ -8,9 +8,5 @@ hi 👋
 ## Repos:
 [![Smart](https://github-readme-stats.vercel.app/api/pin/?username=healthpackTR&repo=Smart&theme=dark)](https://github.com/healthpackTR/Smart)
 
-[![Github User Info Example](https://github-readme-stats.vercel.app/api/pin/?username=healthpackTR&repo=user-info-example&theme=dark)](https://github.com/healthpackTR/user-info-example)
-
-[![Smart](https://github-readme-stats.vercel.app/api/pin/?username=healthpackTR&repo=yilbasi-sayac&theme=dark)](https://github.com/healthpackTR/yilbasi-sayac)
-  
-[![product-system-exmp](https://github-readme-stats.vercel.app/api/pin/?username=healthpackTR&repo=product-system-exmp&theme=dark)](https://github.com/healthpackTR/product-system-exmp)  
+[![Sayac](https://github-readme-stats.vercel.app/api/pin/?username=healthpackTR&repo=yilbasi-sayac&theme=dark)](https://github.com/healthpackTR/yilbasi-sayac)
   
