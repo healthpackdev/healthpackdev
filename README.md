@@ -1,4 +1,10 @@
-hi 👋
+hi 👋,
+
+I'm from turkey, i'm live in istanbul
+
+I used my first computer at age of 6
+
+6 years later so i'm 12, i started learn javascript, html etc.
 
 <hr>
 
