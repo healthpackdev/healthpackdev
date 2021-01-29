@@ -8,5 +8,5 @@ hi 👋
 ## Repos:
 [![Smart](https://github-readme-stats.vercel.app/api/pin/?username=healthpackTR&repo=Smart&theme=dark)](https://github.com/healthpackTR/Smart)
 
-[![Sayac](https://github-readme-stats.vercel.app/api/pin/?username=healthpackTR&repo=yilbasi-sayac&theme=dark)](https://github.com/healthpackTR/yilbasi-sayac)
+[![Counter](https://github-readme-stats.vercel.app/api/pin/?username=healthpackTR&repo=yilbasi-sayac&theme=dark)](https://github.com/healthpackTR/new-year-counter)
   
