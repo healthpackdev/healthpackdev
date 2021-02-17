@@ -1,6 +1,11 @@
 hi 👋,
 
-**I'm from turkey, i'm live in istanbul**
+Learning and Using **Typescript[React, Node(Express Etc.)], Javascript[React, Node(Express Etc.)]**
+
+**List:**
+| Name      | Description |
+| --- | ----------- |
+| Learn      | VueJS      |
 
 <hr>
 
