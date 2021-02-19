@@ -1,8 +1,8 @@
 hi 👋,
 
-Learning and Using **Typescript[React, Node(Express Etc.)], Javascript[React, Node(Express Etc.)]**
+Typescript, Javascript, html, css(sass)
 
-**List:**
+**Learning List:**
 | Name      | Description |
 | --- | ----------- |
 | Learn      | VueJS      |
