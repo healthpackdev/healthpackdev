@@ -1,4 +1,6 @@
-hi 👋,
+# hi 👋,
+
+## Web Developer
 
 Typescript, Javascript, html, css(sass)
 
