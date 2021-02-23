@@ -11,9 +11,7 @@
 
 
 <a><img src="https://github-readme-stats.vercel.app/api?username=healthpackdev&theme=dark&hide_title=true&show_icons=true" alt="stats"/></a>
-<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=healthpackdev&hide_title=true&theme=dark&layout=compact"  alt="stats"/><br></a>
-<img src="https://github-profile-trophy.vercel.app/?username=healthpackdev&theme=nord" width="%100" alt="stats" />
-
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=healthpackdev&hide_title=true&theme=dark&layout=compact"  alt="stats"/></a>
   
   
 ## Repos:
