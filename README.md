@@ -16,10 +16,10 @@ Typescript, Javascript, html, css(sass)
 <img src="https://github-profile-trophy.vercel.app/?username=healthpackdev&theme=nord" width="%100" alt="stats" />
 </p>
   
-  <a href="https://github-readme-stats.vercel.app/api?username=healthpackdev&theme=dark&hide_title=true&show_icons=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=healthpackdev&theme=dark&hide_title=true&show_icons=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=healthpackdev&hide_title=true&theme=dark&layout=compact" />
 </a>
   
