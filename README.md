@@ -1,10 +1,10 @@
 # hi 👋,
 
-## Web Developer
+## 💻 Web Developer
 
-Typescript, Javascript, html, css(sass)
+📫 Typescript, Javascript, html, css(sass)
 
-**Learning List:**
+🌱 **Learning List:**
 | Name      | Description |
 | --- | ----------- |
 | Learn      | VueJS      |
