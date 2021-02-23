@@ -9,9 +9,9 @@ Typescript, Javascript, html, css(sass)
 
 <hr>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=healthpackdev&theme=dark&hide_title=true&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=healthpackdev&theme=dark&hide_title=true&show_icons=true" width="%100" height="150px"alt="stats"/>
 
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=healthpackdev&hide_title=true&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=healthpackdev&hide_title=true&theme=dark&layout=compact" width="%40" height="150px"  alt="stats"/>
 
 ## Repos:
 [![Smart](https://github-readme-stats.vercel.app/api/pin/?username=healthpackdev&repo=Smart&theme=dark)](https://github.com/healthpackTR/Smart)
