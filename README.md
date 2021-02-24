@@ -25,10 +25,13 @@
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=flat&logo=markdown&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=flat&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva%20-%2300C4CC.svg?&style=flat&logo=Canva&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku%20-%23430098.svg?&style=flat&logo=heroku&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=black&style=flat)
+![ExpressJS](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=flat)
+![Webpack](https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=flat&logo=webpack&logoColor=black)
 
 ## Repos:
 <details>
