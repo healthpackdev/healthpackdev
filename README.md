@@ -11,7 +11,7 @@
 <a><img src="https://github-readme-stats.vercel.app/api?username=healthpackdev&theme=dark&hide_title=true&show_icons=true" height="150px" width="50%" alt="stats"/></a><br>
 <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=healthpackdev&hide_title=true&theme=dark&layout=compact" width="50%" alt="stats"/></a>
   
-## 🛠 Language and Tools  
+## 🛠 Language, Tools, Framework, Hosting 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23F7DF1C)
 ![TypeScript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)
