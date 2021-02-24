@@ -27,6 +27,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![Figma](https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=flat&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva%20-%2300C4CC.svg?&style=flat&logo=Canva&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku%20-%23430098.svg?&style=flat&logo=heroku&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=black&style=flat)
 
 ## Repos:
