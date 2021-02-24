@@ -2,8 +2,6 @@
 
 ## 💻 Web Developer
 
-📫 Typescript, Javascript, html, css(sass)
-
 🌱 **Learning List:**
 | Name      | Description |
 | --- | ----------- |
