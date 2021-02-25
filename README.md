@@ -13,6 +13,7 @@
   
 ## 🛠 Language, Tools, Framework, Hosting 
 
+![VS Code](https://img.shields.io/static/v1?style=flat&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23F7DF1C)
 ![TypeScript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=flat&logo=jquery&logoColor=white)
@@ -21,6 +22,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat&logo=sass&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=Bootstrap)
+![TailwindCSS](https://img.shields.io/static/v1?style=flat&message=Tailwind+CSS&color=38B2AC&logo=Tailwind+CSS&logoColor=FFFFFF&label=)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat&logo=Node.js&logoColor=ffffff)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff)
