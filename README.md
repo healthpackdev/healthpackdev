@@ -42,4 +42,7 @@
 [![Smart](https://github-readme-stats.vercel.app/api/pin/?username=healthpackdev&repo=Smart&theme=dark)](https://github.com/healthpackTR/Smart)
 
 [![Counter](https://github-readme-stats.vercel.app/api/pin/?username=healthpackdev&repo=new-year-counter&theme=dark)](https://github.com/healthpackTR/new-year-counter)
+
+
+[![ts bot](https://github-readme-stats.vercel.app/api/pin/?username=healthpackdev&repo=typescript-bot-x&theme=dark)](https://github.com/healthpackTR/typescript-bot-x)
  </details>
