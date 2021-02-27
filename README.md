@@ -39,10 +39,10 @@
 <details>
   <summary>Repos</summary>
 
-[![Smart](https://github-readme-stats.vercel.app/api/pin/?username=healthpackdev&repo=Smart&theme=dark)](https://github.com/healthpackTR/Smart)
+[![Smart](https://github-readme-stats.vercel.app/api/pin/?username=healthpackdev&repo=Smart&theme=dark)](https://github.com/healthpackdev/Smart)
 
-[![Counter](https://github-readme-stats.vercel.app/api/pin/?username=healthpackdev&repo=new-year-counter&theme=dark)](https://github.com/healthpackTR/new-year-counter)
+[![Counter](https://github-readme-stats.vercel.app/api/pin/?username=healthpackdev&repo=new-year-counter&theme=dark)](https://github.com/healthpackdev/new-year-counter)
 
 
-[![ts bot](https://github-readme-stats.vercel.app/api/pin/?username=healthpackdev&repo=typescript-bot&theme=dark)](https://github.com/healthpackTR/typescript-bot)
+[![ts bot](https://github-readme-stats.vercel.app/api/pin/?username=healthpackdev&repo=typescript-bot&theme=dark)](https://github.com/healthpackdev/typescript-bot)
  </details>
