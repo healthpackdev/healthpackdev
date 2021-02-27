@@ -2,12 +2,6 @@
 
 ## 💻 Web Developer
 
-🌱 **Learning List:**
-| Name      | Description |
-| --- | ----------- |
-| Learn      | VueJS      |
-
-
 <a><img src="https://github-readme-stats.vercel.app/api?username=healthpackdev&theme=radical&hide_title=true&show_icons=true" height="150px" width="50%" alt="stats"/></a><br>
 <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=healthpackdev&hide_title=true&theme=radical&layout=compact" width="50%" alt="stats"/></a>
   
