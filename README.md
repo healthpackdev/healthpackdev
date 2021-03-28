@@ -30,6 +30,8 @@
 ![ExpressJS](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=flat)
 ![Webpack](https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=flat&logo=webpack&logoColor=black)
 
+### OS: Manjaro Linux
+
 ## Repos:
 <details>
   <summary>Repos</summary>
