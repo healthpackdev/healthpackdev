@@ -31,16 +31,3 @@
 ![Webpack](https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=flat&logo=webpack&logoColor=black)
 
 ### OS: Manjaro Linux
-
-## Repos:
-<details>
-  <summary>Repos</summary>
-
-[![Smart](https://github-readme-stats.vercel.app/api/pin/?username=healthpackdev&repo=Smart&theme=dark)](https://github.com/healthpackdev/Smart)
-
-[![Counter](https://github-readme-stats.vercel.app/api/pin/?username=healthpackdev&repo=new-year-counter&theme=dark)](https://github.com/healthpackdev/new-year-counter)
-
-[![ts bot](https://github-readme-stats.vercel.app/api/pin/?username=healthpackdev&repo=typescript-bot&theme=dark)](https://github.com/healthpackdev/typescript-bot)
-
-[![ts site](https://github-readme-stats.vercel.app/api/pin/?username=healthpackdev&repo=TS-tailwindcss-react&theme=dark)](https://github.com/healthpackdev/TS-tailwindcss-react)
- </details>
