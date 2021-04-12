@@ -6,7 +6,7 @@
 <a><img src="https://github-readme-stats.vercel.app/api?username=healthpackdev&theme=dark&hide_title=true&hide_border=true&show_icons=true" height="150px" width="50%" alt="stats"/></a><br>
 <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=healthpackdev&hide_title=true&theme=dark&hide_border=true&layout=compact" width="50%" alt="stats"/></a>
   
-## 🛠 Language, Tools, Framework, Hosting 
+## 🛠 Language, Tools, Framework, Hosting, OS
 
 ![VS Code](https://img.shields.io/static/v1?style=flat&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23F7DF1C)
@@ -29,5 +29,5 @@
 ![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=black&style=flat)
 ![ExpressJS](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=flat)
 ![Webpack](https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=flat&logo=webpack&logoColor=black)
-
-### OS: Manjaro Linux
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
