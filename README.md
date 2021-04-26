@@ -3,6 +3,19 @@
 ## 💻 Web Developer
 ![profile views](https://komarev.com/ghpvc/?username=healthpackdev&style=flat)
 
+```ts
+const whoami: whoami = {
+ name: "Yasin",
+ pronouns: ["he", "him"],
+ from: "Turkey",
+ live: "Turkey/Istanbul",
+ age: 13,
+ languages: ["Javascript", "Typescript"]
+}
+
+console.log(whoami);
+```
+
 <a><img src="https://github-readme-stats.vercel.app/api?username=healthpackdev&theme=dark&hide_title=true&hide_border=true&show_icons=true" height="150px" width="50%" alt="stats"/></a>
 <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=healthpackdev&hide_title=true&theme=dark&hide_border=true&layout=compact" width="50%" alt="stats"/></a>
   
