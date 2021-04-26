@@ -10,7 +10,8 @@ const whoami: whoami = {
  from: "Turkey",
  live: "Turkey/Istanbul",
  age: 13,
- languages: ["Javascript", "Typescript"]
+ languages: ["Javascript", "Typescript"],
+ experience: "less than 1 year"
 }
 
 console.log(whoami);
