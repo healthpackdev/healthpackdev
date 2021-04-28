@@ -17,8 +17,6 @@ const whoami: whoami = {
 console.log(whoami);
 ```
 
-<a><img src="https://github-readme-stats.vercel.app/api?username=healthpackdev&theme=dark&hide_title=true&hide_border=true&show_icons=true" height="150px" width="50%" alt="stats"/></a>
-<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=healthpackdev&hide_title=true&theme=dark&hide_border=true&layout=compact" width="50%" alt="stats"/></a>
   
 ### I'm used or using
 
@@ -47,3 +45,9 @@ console.log(whoami);
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white)
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=healthpackdev&show_icons=true&hide_title=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=healthpackdev&layout=compact&theme=dark&count_private=true&include_all_commits=true&hide_border=true&langs_count=10" />
+    <img src="https://github-profile-trophy.vercel.app/?username=healthpackdev&theme=nord&row=1" />
+</p>
