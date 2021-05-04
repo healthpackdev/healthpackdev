@@ -46,7 +46,7 @@ console.log(whoami);
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white) and more!
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=healthpackdev&show_icons=true&hide_title=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true" />
