@@ -9,8 +9,7 @@ website UI refreshing to good review!
 const whoami: whoami = {
  name: "Yasin",
  pronouns: ["he", "him"],
- from: "Turkey",
- live: "Turkey/Istanbul",
+ where: "Turkey/Istanbul",
  age: 13,
  languages: ["Javascript", "Typescript"],
  experience: "less than 1 year"
