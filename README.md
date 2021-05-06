@@ -32,7 +32,7 @@ console.log(whoami);
 ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?&style=flat-square&logo=strapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=black&style=flat-square)
-![Webpack](https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=flat-square&logo=webpack&logoColor=black)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?&style=flat-square&logo=webpack&logoColor=black)
 ![Canva](https://img.shields.io/badge/Canva%20-%2300C4CC.svg?&style=flat-square&logo=Canva&logoColor=white)
 ![TailwindCSS](https://img.shields.io/static/v1?style=flat-square&message=Tailwind+CSS&color=38B2AC&logo=Tailwind+CSS&logoColor=FFFFFF&label=)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat-square&logo=mongodb&logoColor=white)
