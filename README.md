@@ -47,11 +47,11 @@ console.log(whoami);
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![Eslint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku%20-%23430098.svg?&style=flat-square&logo=heroku&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?&style=flat-square&logo=vercel&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=flat-square&logo=markdown&logoColor=white)
-![Repl.it](https://img.shields.io/badge/Repl.it-%230D101E.svg?&style=flat-square&logo=Repl.it&logoColor=white)
 ![Next.js](https://img.shields.io/badge/nextjs-%23000000.svg?&style=flat-square&logo=next.js&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Repl.it](https://img.shields.io/badge/Repl.it-%230D101E.svg?&style=flat-square&logo=Repl.it&logoColor=white)
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=healthpackdev&show_icons=true&hide_title=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true" />
