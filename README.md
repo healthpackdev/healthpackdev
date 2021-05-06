@@ -44,7 +44,7 @@ console.log(whoami);
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=white)
 ![Eslint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku%20-%23430098.svg?&style=flat-square&logo=heroku&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?&style=flat-square&logo=vercel&logoColor=white)
