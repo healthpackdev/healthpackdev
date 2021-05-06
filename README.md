@@ -1,7 +1,7 @@
 # hi 👋,
 
 ## 💻 Web Developer
-![profile views](https://komarev.com/ghpvc/?username=healthpackdev&style=flat)
+![profile views](https://komarev.com/ghpvc/?username=healthpackdev&style=flat-square)
 
 website UI refreshing to good review!
 
@@ -20,8 +20,6 @@ console.log(whoami);
 
   
 ### I'm used or using
-
-<p align="center">
  
 ![VS Code](https://img.shields.io/static/v1?style=flat-square&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23F7DF1C)
@@ -54,7 +52,7 @@ console.log(whoami);
 ![Eslint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white)
 ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?&style=flat-square&logo=strapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/nextjs-%23000000.svg?&style=flat-square&logo=next.js&logoColor=white)
-</p>
+
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=healthpackdev&show_icons=true&hide_title=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=healthpackdev&layout=compact&theme=dark&count_private=true&include_all_commits=true&hide_border=true&langs_count=10" />
