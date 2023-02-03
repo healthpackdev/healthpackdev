@@ -8,9 +8,9 @@ const whoami: whoami = {
  name: "Yasin",
  pronouns: ["he", "him"],
  where: "Turkey/Istanbul",
- age: 13,
+ age: 14,
  languages: ["Javascript", "Typescript"],
- experience: "less than 1 year"
+ experience: "about 2 years"
 }
 
 console.log(whoami);
