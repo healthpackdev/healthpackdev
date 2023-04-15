@@ -2,7 +2,7 @@
 
 ## 💻 Web Developer
 
-My name is **Yasin** and I'm a **student** at highschool🎓. I'm currently learning **English** and **German**🌐. I'm living in **Turkey**.I have about **2** years experience in **Javascript** and **Typescript**💻. Now I'm trying to get experience in **Python**📘.
+My name is **Yasin** and I'm a **student** at highschool🎓. I'm currently learning **English** and **German**🌐. I'm living in **Turkey**.I have about **2** years experience in **Javascript** and **Typescript**💻. Now I'm trying to get experience in **Python**📘. I also preparing myself in Competitive programming with **C++** for attending Tübitak Olympics 🏅.
 
 ![profile views](https://komarev.com/ghpvc/?username=healthpackdev&style=flat-square)
 
